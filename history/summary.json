@@ -40,17 +40,19 @@
     "url": "https://rec.zappvoice.top",
     "icon": "https://icons.duckduckgo.com/ip3/rec.zappvoice.top.ico",
     "slug": "rec-zappvoice",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "84.45%",
+    "uptimeDay": "84.45%",
+    "uptimeWeek": "84.45%",
+    "uptimeMonth": "84.45%",
+    "uptimeYear": "84.45%",
     "time": 3373,
     "timeDay": 3373,
     "timeWeek": 3373,
     "timeMonth": 3373,
     "timeYear": 3373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-28": 3
+    }
   }
 ]

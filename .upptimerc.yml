@@ -3,6 +3,8 @@ repo: uptimeValores # GitHub repository name
 sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com.br
+  - name: ZapVoice.com
+    url: https://zapvoice.com
     
 status-website:
   baseUrl: /uptimeValores # where "repo" is your repository name

@@ -5,6 +5,8 @@ sites: # List of endpoints to track
     url: https://www.google.com.br
   - name: ZapVoice.com
     url: https://zapvoice.com
+  - name: Rec zappvoice
+    url: https://rec.zappvoice.top
     
 status-website:
   baseUrl: /uptimeValores # where "repo" is your repository name
